@@ -2,7 +2,7 @@
 
 We’re an independent workshop for people who take things apart, build prototypes and share what worked. In Discord, you can pitch an idea, keep a build log or ask someone to test a prototype.
 
-[Visit the project gallery](https://wvoid.coal.marketing/) · [Join the Discord](https://discord.gg/CPjRJzZYpf) · [How to contribute](https://wvoid.coal.marketing/community/)
+[Visit the project gallery](https://wvoid.coal.marketing/) · [How to contribute](https://wvoid.coal.marketing/community/)
 
 ## Count23
 
